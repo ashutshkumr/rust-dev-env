@@ -1,4 +1,4 @@
-# rustenv
+# rust-dev-env
 
 Sets up VSCode-based Rust Development Environment inside an Ubuntu Container.
 
